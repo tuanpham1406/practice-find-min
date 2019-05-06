@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class FindMin {
     private static int minValue(int []array){
         int min = array[0];
